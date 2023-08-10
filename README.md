@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @BTWgamer201
-- 👀 I’m interested in Coding and System Administration 
-- 🌱 I’m currently make a huge Project with friends!
+I'm Noriskky 👋 a Hobby Developer since 2022
+My Skill Set
+enter image description here enter image description here enter image description here enter image description here enter image description here enter image description here enter image description here enter image description here ViteGithub Pages Java Markdown IntelliJ IDEA Notepad++ Obsidian PyCharm Visual Studio WebStorm Vim Gradle enter image description here
+
+My System
+Brave enter image description here GPU CPU
+
+enter image description here
