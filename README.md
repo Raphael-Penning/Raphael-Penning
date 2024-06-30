@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Raphael Penning from Germany,<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I help out at Utopia-Gaming.de</p>
+<p align="left">I'm Raphael Penning from Germany,<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I help out at SchuelerPenning.de</p>
 
 ###
 
